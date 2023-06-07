@@ -1,0 +1,30 @@
+main{
+  margin-top: 20px;
+}
+
+.bowling-pins{
+  max-height: 105vh;
+  /* box-shadow: ; add later*/
+}
+
+.bowling-shoes{
+  width: 105vh;
+  height: 35vh;
+  object-fit: cover;
+  object-position: center;
+}
+
+.events-pics{
+  width: 65vh;
+  height: 65vh;
+  object-position: center;
+}
+
+.shoes-text{
+  width: 722px;
+}
+
+.footer-text-columns1{
+  padding-left: 6vw;
+  padding-right: 6vw;
+}
